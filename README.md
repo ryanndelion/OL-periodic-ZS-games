@@ -21,3 +21,6 @@ Most of the code in our submission has been edited such that it can be easily ex
 To install requirements:
 
 ```pip install -r requirements.txt```
+
+### Using the repository
+We have included HTML files of our experiments for ease of viewing. If you wish to modify the code, we have also added the source Jupyter notebook and Python file.
