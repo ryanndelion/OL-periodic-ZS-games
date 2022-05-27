@@ -1,6 +1,6 @@
 # Online Learning in Periodic Zero-Sum Games
 This is a repository for code which was used to produce experiments in the paper Online Learning in Periodic Zero-Sum Games, which is to appear at NeurIPS 2021. 
-You can find the arxiv of the paper here: [TO ADD ARXIV LINK]
+You can find the arxiv of the paper here: https://arxiv.org/abs/2111.03377
 
 ## Abstract
 A seminal result in game theory is von Neumann's minmax theorem, which states that zero-sum games admit an essentially unique equilibrium solution. 
